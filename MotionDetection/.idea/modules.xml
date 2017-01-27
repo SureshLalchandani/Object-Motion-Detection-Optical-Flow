@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MotionDetection.iml" filepath="$PROJECT_DIR$/MotionDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCVLibrary300/OpenCVLibrary300.iml" filepath="$PROJECT_DIR$/OpenCVLibrary300/OpenCVLibrary300.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
